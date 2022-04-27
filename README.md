@@ -45,4 +45,4 @@ A REST API for a social media app. Built with Express, Mongoose, and MongoDB.
 - mongoose
 
 ## Questions
-If you have questions, email me at [vlane0593@gmail.com](mailto:vlane0593@gmail.com) or reach out on [GitHub](https://www.github.com/vanessalane).
+If you have questions, email me at [projects@jeremyanderson.dev](mailto:projects@jeremyanderson.dev) or reach out on [GitHub](https://www.github.com/jeremy0anderson).
