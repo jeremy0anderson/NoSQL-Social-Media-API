@@ -1,0 +1,28 @@
+{
+  "name": "social-media-api",
+  "version": "1.0.0",
+  "description": "An API for a social media app built with Express, Mongoose, and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanessalane/social-media-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanessalane/social-media-api/issues"
+  },
+  "homepage": "https://github.com/vanessalane/social-media-api#readme",
+  "dependencies": {
+    "moment": "^2.29.3",
+    "express": "^4.18.0",
+    "mongoose": "^6.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
